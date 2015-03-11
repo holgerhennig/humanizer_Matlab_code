@@ -6,7 +6,7 @@ function [ I1, I2, d ] = mics_model( alpha, sigma_clock, len, W1, W2, T, seed, a
     % The two time series are long-range cross-correlated (e.g., as if two musicians played toether).
 	
     % Written by Holger Hennig (2014)
-	% Contact/feedback: holgerh@nld.ds.mpg.de
+	% Contact/feedback: holger.hen (at) gmail.com
     % Based on the article: H. Hennig, PNAS 111,12974 (2014)
     % Free article download: www.nld.ds.mpg.de/~holgerh/download
     % License: This work is licensed under a Creative Commons

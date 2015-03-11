@@ -2,7 +2,7 @@ function [ notes_humanized, seed, sort_ind ] = humanizer( input_filename, sigma,
 	% Couples two audio tracks ("as if two musicians played together") or
 	% Humanizes an audio track ("as if played by a musician") in a MIDI file.
 	% Written by Holger Hennig (2014)
-	% Contact/feedback: holgerh@nld.ds.mpg.de
+	% Contact/feedback: holger.hen (at) gmail.com
     % Based on the article: H. Hennig, PNAS 111,12974 (2014)
     % Free article download: www.nld.ds.mpg.de/~holgerh/download
     % License: This work is licensed under a Creative Commons 

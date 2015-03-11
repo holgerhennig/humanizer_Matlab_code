@@ -1,6 +1,7 @@
 function [x, seed] = noise(alpha, N, seed, verbose)
 	% generate 1/f^alpha noise with N data points. 
     % Written by Holger Hennig (2008)
+    % Contact/feedback: holger.hen (at) gmail.com
 	% For 0<alpha<2 the time series exhibits long-range correlations.
 	% Input: x=noise(alpha,N);
 	% Default: alpha=1, N=1000, mean 0 and standard deviation 1.
@@ -16,6 +17,9 @@ function [x, seed] = noise(alpha, N, seed, verbose)
 	%	4. inverse FFT of y gives time series x. Note that x is real due to
 	%	   symmetrizing the PSD (step 3).
 	
+    % License: This work is licensed under a Creative Commons
+    %   Attribution-NonCommercial-ShareAlike 4.0 International License.
+    
 	if nargin < 1 || isempty(alpha), alpha = 1; end
 	if nargin < 2 || isempty(N), N = 1000; end
 	if ~exist('seed','var') || isempty(seed), seed = floor(1e6*rand); end
