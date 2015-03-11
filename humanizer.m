@@ -367,7 +367,7 @@ function [ notes_humanized, seed, sort_ind ] = humanizer( input_filename, sigma,
     % write cell C_h as ascii textfile f_core to disk
 	fprintf('Writing midi file %s.mid\n',filename);
 	dlmcell(f_core, C_h, ' ');
-        
+    
 	% header + core + footer = txtfile
 	core2txt = ['cat org/org_bj_header.txt ' f_core ' org/org_bj_footer.txt > ' filename '.txt'];
 	unix(core2txt);

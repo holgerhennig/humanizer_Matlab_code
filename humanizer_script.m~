@@ -43,8 +43,8 @@
     % 8: message number of note_off
 
 %% enter path to working directory. The Humanizer will write output files into this directory
-% example: 
-cd /Users/myusername/demo
+% example: cd /Users/myusername/
+cd /Users/holgerh/holger/work/software_development/github/humanizer
 
 % add path to bin
 setenv('PATH',[getenv('PATH') ':/Users/holgerh/bin/'])
