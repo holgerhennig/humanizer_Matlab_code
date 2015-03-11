@@ -1,0 +1,110 @@
+MFile 0 1 1920
+MTrk
+0 Meta Text "Billy Je"
+0 Tempo 512820
+15 SysEx f0 41 10 42 12 40 00 7f 00 41 f7
+54 SysEx f0 41 10 45 12 10 00 00 42 69 6c 6c 79 20 4a 65 61 6e 56 f7
+192 Par ch=10 c=121 v=0
+192 Par ch=11 c=121 v=0
+192 Par ch=7 c=121 v=0
+192 Par ch=5 c=121 v=0
+192 Par ch=4 c=121 v=0
+192 Par ch=3 c=121 v=0
+192 Par ch=2 c=121 v=0
+192 Par ch=1 c=121 v=0
+237 Par ch=10 c=0 v=0
+237 Par ch=11 c=0 v=0
+237 Par ch=7 c=0 v=0
+237 Par ch=5 c=0 v=0
+237 Par ch=4 c=0 v=0
+237 Par ch=3 c=0 v=0
+237 Par ch=2 c=0 v=0
+237 Par ch=1 c=0 v=8
+240 Par ch=10 c=32 v=0
+240 Par ch=11 c=32 v=0
+240 Par ch=7 c=32 v=0
+240 Par ch=5 c=32 v=0
+240 Par ch=4 c=32 v=0
+240 Par ch=3 c=32 v=0
+240 Par ch=2 c=32 v=0
+240 Par ch=1 c=32 v=0
+257 PrCh ch=10 p=0
+283 Par ch=10 c=10 v=64
+288 PrCh ch=11 p=7
+288 PrCh ch=7 p=49
+288 PrCh ch=5 p=27
+288 PrCh ch=4 p=53
+288 PrCh ch=3 p=50
+288 PrCh ch=2 p=33
+288 PrCh ch=1 p=5
+298 Par ch=10 c=91 v=110
+317 Par ch=10 c=93 v=30
+336 Par ch=11 c=10 v=64
+336 Par ch=7 c=10 v=64
+336 Par ch=5 c=10 v=64
+336 Par ch=4 c=10 v=64
+336 Par ch=3 c=10 v=64
+336 Par ch=2 c=10 v=64
+336 Par ch=1 c=10 v=64
+347 Par ch=10 c=7 v=123
+380 Par ch=10 c=11 v=127
+384 Par ch=2 c=91 v=30
+384 Par ch=1 c=91 v=50
+385 Par ch=11 c=91 v=70
+385 Par ch=7 c=91 v=127
+385 Par ch=5 c=91 v=100
+385 Par ch=4 c=91 v=70
+385 Par ch=3 c=91 v=110
+414 Par ch=10 c=99 v=28
+432 Par ch=11 c=93 v=30
+432 Par ch=7 c=93 v=30
+432 Par ch=5 c=93 v=60
+432 Par ch=4 c=93 v=38
+432 Par ch=3 c=93 v=30
+432 Par ch=2 c=93 v=0
+432 Par ch=1 c=93 v=30
+437 Par ch=10 c=98 v=42
+456 Par ch=10 c=6 v=1
+478 Par ch=10 c=99 v=29
+482 Par ch=11 c=7 v=66
+482 Par ch=7 c=7 v=84
+482 Par ch=5 c=7 v=70
+482 Par ch=4 c=7 v=124
+482 Par ch=3 c=7 v=91
+482 Par ch=2 c=7 v=104
+482 Par ch=1 c=7 v=123
+496 Par ch=10 c=98 v=42
+516 Par ch=10 c=6 v=20
+518 Par ch=11 c=11 v=127
+518 Par ch=7 c=11 v=127
+518 Par ch=5 c=11 v=127
+518 Par ch=4 c=11 v=127
+518 Par ch=3 c=11 v=127
+518 Par ch=2 c=11 v=127
+518 Par ch=1 c=11 v=127
+543 Par ch=10 c=99 v=24
+559 Par ch=10 c=98 v=36
+576 SysEx f0 41 10 45 12 10 00 00 28 4d 2e 20 4a 61 63 6b 73 6f 6e 29 3b f7
+587 Par ch=10 c=6 v=63
+594 Par ch=7 c=99 v=1
+594 Par ch=3 c=99 v=1
+600 Par ch=2 c=99 v=1
+603 Par ch=10 c=99 v=24
+610 Par ch=7 c=98 v=99
+610 Par ch=3 c=98 v=99
+623 Par ch=2 c=98 v=99
+628 Par ch=7 c=6 v=52
+628 Par ch=3 c=6 v=56
+629 Par ch=10 c=98 v=40
+642 Par ch=2 c=6 v=0
+645 Par ch=10 c=6 v=64
+658 Par ch=3 c=99 v=1
+658 Par ch=2 c=99 v=1
+670 Par ch=2 c=98 v=32
+671 Par ch=10 c=99 v=29
+676 Par ch=3 c=98 v=32
+682 Par ch=2 c=6 v=27
+692 Par ch=10 c=98 v=36
+698 Par ch=10 c=6 v=5
+701 Par ch=3 c=6 v=59
+711 Par ch=10 c=99 v=29
