@@ -156,7 +156,7 @@ function [ notes_humanized, seed, sort_ind ] = humanizer( input_filename, sigma,
             
             fprintf('Group Humanizer: Coupling two instruments based on MICS model\n');
 			typename = 'mics';	
-            [x,y] = mics(alpha, sigma, len_humanize, W, [], 0, seed, alpha2, sigma2);
+            [x,y] = mics_model(alpha, sigma, len_humanize, W, [], 0, seed, alpha2, sigma2);
             x = x'; 
             y = y';
             
